@@ -1,0 +1,6 @@
+$primary: hsl(171, 100%, 41%);
+// Links
+$link: $primary;
+$link-focus-border: $primary; // для pagination
+// Import Bulma and Buefy styles
+@import "~bulma";
